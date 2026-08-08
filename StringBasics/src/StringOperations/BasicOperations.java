@@ -7,8 +7,10 @@ import java.util.*;
 
 public class BasicOperations {
     public static void main(String[] args) {
-        String s = "name"; //small things to notice the 'S' in String is always capital and the value must be inside ("")
+
+        String s = "name"; //small thing to notice the 'S' in String is always capital and the value must be inside ("")
         //int i = 0; //index value
+
         //operation one : access character at a particular index. (just like we do with arrays)
         //System.out.println(s.charAt(i)); //here whatever value u pass to i it will pont to that index. here it is 0 so output will be n.
 
@@ -26,7 +28,7 @@ public class BasicOperations {
 //        }
 
         //OPERATION 3 : String comparison - this is an extremely imp. topic of string this teaches many things.
-        //1. String is an Object in java so that why the 's' is capital in it.
+        //1. String is an Object in java so thats why the 's' is capital in it.
         //2. A string can be compared by 2 things first is reference and second is by value. will discuss both DW.
 
 

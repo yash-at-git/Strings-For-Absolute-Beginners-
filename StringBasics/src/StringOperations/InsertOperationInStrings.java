@@ -15,7 +15,7 @@ public class InsertOperationInStrings {
         //1. Strings
         //System.out.println(s+" world"); //prints Hello world
         //OR
-        //s = s + " world";
+        //s = s + " world"; -> this is better
         //System.out.println(s); //prints hello world. both ways a new String is created.
 
 
@@ -32,7 +32,7 @@ public class InsertOperationInStrings {
 
         //int index = 2;
 
-        //String result = s.substring(0,index) //from 0th index to whatever the value of index.
+        //String result = s.substring(0,index) //prints from 0th index to whatever the value of index.
              //   + "world" //add world after index 2.
            //     + s.substring(index); //from index till end.
 
